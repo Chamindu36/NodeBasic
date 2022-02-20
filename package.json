@@ -1,0 +1,23 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "Basic Node js udemy course lessons",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon serevrStart.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamindu36/NodeBasic.git"
+  },
+  "author": "Chamindu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamindu36/NodeBasic/issues"
+  },
+  "homepage": "https://github.com/Chamindu36/NodeBasic#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
